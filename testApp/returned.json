@@ -1,0 +1,18 @@
+[
+    {
+        "ValeurDeTest" : 1,
+        "Value":{
+            "magicValue" : 3,
+            "litteralValue" : 2,
+            "name" : "here's a value string"
+        }
+    },
+    {
+        "ValeurDeTest" : 2,
+        "Value":{
+            "magicValue" : 4,
+            "litteralValue" : 1,
+            "name" : "here's a value string for the id 2"
+        }
+    }
+]
